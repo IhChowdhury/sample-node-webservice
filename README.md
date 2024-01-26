@@ -1,4 +1,4 @@
-<p align="center">Sample res Webservice with NestJs Framework</p>
+<p align="center">Sample rest Webservice with NestJs Framework</p>
 
 
 ## Description
